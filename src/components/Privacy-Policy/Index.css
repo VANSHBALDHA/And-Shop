@@ -1,0 +1,25 @@
+.privacy-section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.privacy_content h2{
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.privacy_content h3{
+    font-size: 24px;
+    font-weight: 500;
+}
+.privacy_policy_text{
+    padding-top: 30px;
+}
+.privacy_policy_text p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #777c87;
+    font-weight: 400;
+    font-family: "Poppins",sans-serif;
+    padding-top: 10px;
+}

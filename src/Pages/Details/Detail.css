@@ -1,0 +1,84 @@
+.detail-section {
+    padding: 40px 0;
+}
+
+.modal_product_content_one h4 {
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.modal_product_content_one h4 del {
+    padding-left: 20px;
+    color: #f79837;
+}
+
+.modal_product_content_one p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #777c87;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    padding-top: 10px;
+}
+
+.variable-single-item {
+    margin-top: 15px;
+}
+
+
+.links_Product_areas {
+    margin-top: 30px;
+}
+
+.action-wishlist {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: none;
+}
+
+.theme-btn-one {
+    margin-top: 20px;
+}
+
+.detail-btn {
+    margin-left: 20px;
+}
+
+.product-qun {
+    margin-left: 4rem;
+    padding-top: 23px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.on {
+    color: #f79837;
+}
+
+.off {
+    color: #ccc;
+}
+
+.star {
+    font-size: 30px;
+}
+
+.color-variant li a {
+    position: relative;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 2px;
+    margin-right: 10px;
+    transition: all .1s ease;
+    vertical-align: middle;
+    cursor: pointer;
+}

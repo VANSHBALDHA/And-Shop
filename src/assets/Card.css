@@ -1,0 +1,59 @@
+.inner-img {
+  transition: 0.6s;
+}
+
+.inner-img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+/* Cart Css */
+
+.product_remove {
+  min-width: 100px;
+  font-size: 20px;
+}
+
+.wishlist-icon {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.wishlist-icon:hover {
+  background-color: #f79837;
+}
+
+.product_wrappers_one .thumb .badges {
+  position: absolute;
+  z-index: 8;
+  top: 14px;
+  left: 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+.product_wrappers_one .thumb .badges span.new {
+  background-color: #007a58;
+}
+
+.product_wrappers_one .thumb .badges span {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  display: block;
+  padding: 0 7px;
+  text-align: center;
+  text-transform: capitalize;
+  border-radius: 3px;
+  color: #fff;
+}

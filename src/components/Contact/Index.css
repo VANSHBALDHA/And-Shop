@@ -1,0 +1,125 @@
+.about-section {
+    background-image: url(/src/assets/Images/about-hero.png);
+    background-repeat: no-repeat;
+    padding: 40px 0;
+    display: flex;
+    height: 260px;
+    align-items: center;
+}
+
+.hero-text {
+    text-align: center;
+    color: #fff;
+}
+
+.breadcumb {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+ol {
+    list-style: none;
+    text-decoration: none;
+}
+
+.contact-info {
+    padding-top: 40px;
+}
+
+.contact_widget a {
+    color: white;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+a:hover {
+    color: #f79837
+}
+
+.info {
+    padding-bottom: 40px;
+}
+
+.info p {
+    color: #777c87;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.address .address-location {
+    display: flex;
+}
+
+.address-location p {
+    margin-left: 20px;
+    color: #0a0d14;
+}
+
+.icon {
+    padding-top: 5px;
+}
+
+.contact a {
+    display: block;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.address>ul>li {
+    padding-bottom: 30px;
+}
+
+.contact_widget a {
+    color: black;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.contact_widget a:hover {
+    color: #f79837;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+input {
+    min-height: 45px;
+    border: 1px solid #fff;
+    background: #fff;
+}
+
+.contact-map {
+    width: 100%;
+    height: 450px;
+    border: none;
+}
+
+.items {
+    color: #f79837
+}
+
+.breadcrumb {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    color: white;
+}
+
+.form-control {
+    position: relative;
+}
+
+.form-group span {
+    position: absolute;
+    color: red;
+    font-size: 12px;
+}

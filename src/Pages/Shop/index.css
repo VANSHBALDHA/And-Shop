@@ -1,0 +1,34 @@
+.shop-items {
+    padding: 40px 0 25px;
+}
+
+.customs_sel_box {
+    padding: 12px;
+    font-size: 16px;
+    line-height: 1;
+    border: none;
+    background-size: 6%;
+    align-items: center;
+}
+
+.product_shot {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.product_shot_title p {
+    font-size: 16px;
+    color: #000;
+    text-transform: uppercase;
+    padding-right: 15px;
+}
+
+.product_shot_title p,
+p:last-child {
+    margin-bottom: 0;
+}
+
+.customs_selects_sort {
+    width: calc(100% - 85px);
+}

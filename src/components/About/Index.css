@@ -1,0 +1,70 @@
+.about-section {
+    background-image: url(/src/assets/Images/about-hero.png);
+    background-repeat: no-repeat;
+    padding: 98px 0;
+}
+
+.hero-text {
+    text-align: center;
+    color: #fff;
+}
+
+.breadcumb {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.about-store {
+    padding-top: 70px;
+}
+
+.about-text h4 {
+    line-height: 30px;
+    padding-top: 15px;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.about-text p {
+    padding-top: 10px;
+    font-weight: 400;
+    color: #777c87;
+}
+
+.about-text p:last-child {
+    margin-bottom: 0;
+}
+
+.about-card {
+    text-align: center;
+    box-shadow: 0 0 6px 1px rgba(0, 0, 0, .1098);
+    padding: 25px 10px;
+    height: 100%;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-info h3 {
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.card-info p {
+    color: #777c87;
+}
+
+.about-main {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.breadcrumb-item a {
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}

@@ -1,0 +1,28 @@
+.order-tracking {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.order_tracking_wrapper {
+    box-shadow: 0 0 7px 3px rgba(0, 0, 0, .16863);
+    padding: 20px 30px;
+}
+
+.order_tracking_wrapper h4 {
+    text-align: center;
+    font-weight: 600;
+}
+
+.order_tracking_wrapper p {
+    text-align: center;
+    color: #777c87;
+}
+
+label {
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.order_track_button {
+    text-align: center;
+}

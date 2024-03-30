@@ -1,0 +1,72 @@
+.coming-section {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 50%;
+    background-size: cover;
+    background-image: url(/src/assets/Images/coming-soon.ecbb91e\ \(1\).jpg);
+    position: relative;
+    display: flex;
+    align-items: center;
+
+}
+
+.coming-content {
+    text-align: center;
+    z-index: 999;
+    position: relative;
+}
+
+.coming-title h2 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-style: italic;
+    padding-top: 20px;
+}
+
+.coming-content p {
+    padding-top: 10px;
+    color: white;
+    padding-top: 20px;
+}
+
+.coming-subscribe h2 {
+    font-style: italic;
+    color: white;
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+.email-info input {
+    border-radius: 0;
+}
+
+.sub-btn {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    display: inline-block;
+    border-radius: 0;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 16px 35px;
+}
+.timer ul{
+    display: flex;
+}
+.timer ul li{
+    border: 1px solid #fff;
+    width: 100%;
+    color: #fff;
+    padding: 15px 0;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.timer ul li span{
+    display: block;
+    font-size: 45px;
+    line-height: 55px;
+}

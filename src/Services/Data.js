@@ -1,0 +1,68 @@
+export const products = [
+  {
+    id: 1,
+    name: "Cerveza Modelo",
+    price: 919.11,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/1.7190443.png",
+    brand: "New",
+  },
+  {
+    id: 2,
+    name: "Diesel Life",
+    price: 1257.92,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/10.d71c44e.png",
+  },
+  {
+    id: 3,
+    name: "Indian Cricket Team jersey",
+    price: 1500.85,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/11.54a1591.png",
+    brand: "New",
+  },
+  {
+    id: 4,
+    name: "One Punch man - OK",
+    price: 1250.9,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/8.32e12a7.png",
+    brand: "New",
+  },
+  {
+    id: 5,
+    name: "Hiking jacket",
+    price: 1750.85,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/7.6533a8a.png",
+    brand: "New",
+  },
+  {
+    id: 6,
+    name: "Real Heart",
+    price: 3100.61,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/6.f19b14e.png",
+  },
+  {
+    id: 7,
+    name: "Fredd - Black and White",
+    price: 1801.1,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/4.0d1ab93.png",
+    brand: "New",
+  },
+  {
+    id: 8,
+    name: "Star Wars - The Last",
+    price: 1199.99,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/5.65927e4.png",
+  },
+  {
+    id: 9,
+    name: "Yellow Blouse",
+    price: 2395.16,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/2.57e4309.png",
+  },
+  {
+    id: 10,
+    name: "Rick and Morty - Supreme",
+    price: 1243.82,
+    images: "https://andshop-vue.netlify.app/_nuxt/img/3.1d2f5e9.png",
+    brand: "New",
+  },
+];

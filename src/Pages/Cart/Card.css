@@ -1,0 +1,24 @@
+.quantity {
+    border: 1px solid #ddd;
+    width: 56px;
+    padding: 10px;
+    text-align: center;
+    width: 56px;
+    min-height: 35px;
+    border-radius: 0;
+    margin: 0 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.product_quantity {
+    cursor: pointer;
+}
+
+.product_remove {
+    cursor: pointer;
+}
+
+.product_quantity .FontAwesomeIcon {
+    color: red;
+}

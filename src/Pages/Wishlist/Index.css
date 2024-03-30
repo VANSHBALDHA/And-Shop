@@ -1,0 +1,36 @@
+.wishlist-items {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.table_desc {
+    border: 1px solid #ededed;
+}
+
+.table_page {
+    position: relative;
+    z-index: 1;
+    overflow-x: auto;
+    width: 100%;
+    display: block;
+}
+
+.table_page thead {
+    background-color: #f79837;
+}
+
+.table_page thead tr th {
+    padding: 10px;
+    text-align: center;
+}
+
+.table_page table tbody tr td.product_remove {
+    min-width: 100px;
+    font-size: 20px;
+}
+.table-responsive table tbody tr td {
+    border-right: 1px solid #ededed;
+    font-weight: 500;
+    text-align: center;
+    vertical-align: middle;
+}

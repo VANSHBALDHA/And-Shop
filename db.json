@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "user": {
+        "username": "Hardik ",
+        "email": "hardik@gmail.com",
+        "password": "123456",
+        "confirmPassword": "123456",
+        "number": "1144778855",
+        "address": "Ahemdabad"
+      },
+      "id": 2
+    },
+    {
+      "user": {
+        "username": "Vansh M. Patel",
+        "email": "vanshpatel@gmail.com",
+        "password": "123456",
+        "confirmPassword": "123456",
+        "number": "8989898989",
+        "address": "Ahmedabad"
+      },
+      "id": 4
+    },
+    {
+      "user": {
+        "username": "vansh baldha",
+        "email": "vanshpatel@gmail.com",
+        "password": "123456",
+        "confirmPassword": "123456",
+        "number": "9737392505",
+        "address": "Ahmedabad"
+      },
+      "id": 5
+    }
+  ],
+  "inquiry": [
+    {
+      "user": {
+        "name": "Vansh Patel",
+        "email": "vanshpatel2505@gmail.com",
+        "phone": "91067925692",
+        "subject": "Hello tested??",
+        "message": "tested`"
+      },
+      "id": 1
+    },
+    {
+      "name": "Vansh Patel",
+      "email": "vanshpatel2505@gmail.com",
+      "phone": "9106792692",
+      "subject": "Tested Propose",
+      "message": "Tested Done.",
+      "id": 2
+    },
+    {
+      "name": "vansh",
+      "email": "vansh@gmail.com",
+      "phone": "898989898989+56",
+      "subject": "898989898",
+      "message": "sdfsdf",
+      "id": 3
+    }
+  ]
+}

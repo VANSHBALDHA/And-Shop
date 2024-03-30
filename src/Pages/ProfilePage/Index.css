@@ -1,0 +1,47 @@
+.profile-section {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.myaccount-content {
+    border: 1px solid #e8e8e8;
+    padding: 30px;
+}
+
+.myaccount-content .title {
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    color: #212121;
+    border-bottom: 1px dashed #e8e8e8;
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+
+.account_details_form .input-radio {
+    margin-bottom: 20px;
+}
+
+.input-radio span {
+    font-weight: 500;
+    padding-right: 10px;
+}
+
+.account_login_form form span input[type=checkbox],
+.input-radio span input[type=radio] {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    position: relative;
+    top: 16px;
+}
+
+.account_details_form .default-form-box {
+    margin-bottom: 20px;
+}
+
+.default-form-box label {
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 10px;
+    display: block;
+}
